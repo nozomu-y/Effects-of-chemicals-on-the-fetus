@@ -1,0 +1,23 @@
+Name,Observed CI,Predicted CI,Author's Prediction
+Abacavir,0.47,6158848075.14,0.62
+Acyclovir,0.17,2310592706.59,0.09
+Alanine,0.30,1699872929.24,0.40
+Amprenavir,0.38,9208209956.16,0.39
+Azidothymidine,0.29,3038257769.90,0.15
+Ceftizoxime,0.12,-2835746185.40,0.04
+Chloroprocaine,0.83,4864116539.62,0.69
+Bupivacaine,0.73,-7929582214.69,0.91
+Cimetidine,0.30,10671850312.95,0.38
+Cortisol,0.50,-2531684577.05,0.54
+Didanosine,0.31,-1838221343.26,0.29
+Glucose,0.26,807698626.36,0.50
+Indomethacin,0.72,6688002481.64,0.58
+Alpha_acetyl_N_normethadol,0.80,550458061.03,0.88
+Mezlocilline,0.14,5299216419.80,-0.08
+Morphine,0.63,3475528912.55,0.36
+Nicotine,0.93,-108550850.85,0.54
+Prednisolone,0.38,5122311235.39,0.46
+Rifampin,0.12,-4818761852.15,0.76
+Ropivacaine,0.75,-7069708340.92,0.94
+S-Ketoprofen,0.39,4799532367.51,0.91
+Triameterene,0.85,4929224790.42,0.80

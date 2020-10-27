@@ -1,0 +1,17 @@
+Model,RMSE train,Q2 train,RMSE test,Q2 test
+1D/2D Descriptor LinearRegression,3.46e+07,-1.36e+16,1.08e+10,-1.76e+21
+1D/2D Descriptor Ridge,0.02634,0.99211,0.23378,0.17410
+1D/2D Descriptor SVR,0.09089,0.90605,0.15239,0.64907
+1D/2D Descriptor RandomForest,0.08466,0.91849,0.17064,0.55998
+1D/2D Descriptor LightGBM,0.00511,0.99970,0.19084,0.44967
+3D Descriptor LinearRegression,0.25419,0.26523,0.22857,0.21050
+3D Descriptor Ridge,0.25618,0.25368,0.23188,0.18749
+3D Descriptor SVR,0.16823,0.67815,0.32178,-0.56464
+3D Descriptor RandomForest,0.12061,0.83456,0.24250,0.11138
+3D Descriptor LightGBM,0.00000,1.00000,0.26682,-0.07586
+ECFP4 Fingerprint LinearRegression,4.88e+08,-2.71e+18,5.18e+09,-4.06e+20
+ECFP4 Fingerprint Ridge,0.01893,0.99592,0.16376,0.59474
+ECFP4 Fingerprint SVR,0.09437,0.89872,0.20363,0.37343
+ECFP4 Fingerprint RandomForest,0.10253,0.88045,0.15850,0.62036
+ECFP4 Fingerprint LightGBM,0.00734,0.99939,0.19129,0.44706
+Author's Model,0.09043,0.90701,0.23427,0.17066

@@ -1,0 +1,15 @@
+Name,PubChem CID,Observed logFM,Predicted logFM,Author's Prediction
+Indinavir,3706,-1.10,-0.18,-0.68
+Duloxetine,60835,-0.92,-0.35,-0.43
+17-Hydroxyprogesterone caproate,3653,-0.70,-1.65,-0.55
+Nelfinavir,4451,-0.60,-0.11,-0.52
+Bupivacaine,2474,-0.52,-0.66,-0.31
+Cefoperazone,44187,-0.46,-0.74,-0.32
+Naloxone,4425,-0.30,-0.23,-0.17
+Isoniazid,3767,-0.21,-0.04,0.00
+Midazolam,4192,-0.13,-0.83,-0.34
+Phthalimide,6809,-0.09,0.00,-0.06
+Chloroquine,2719,-0.03,-0.91,-0.34
+Sotalol,5253,0.00,0.27,-0.16
+Dicloran,7430,0.03,-0.17,-0.21
+Carnitine,10917,0.11,0.73,-0.02

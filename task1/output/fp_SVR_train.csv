@@ -1,0 +1,42 @@
+Name,PubChem CID,Observed logFM,Predicted logFM,Author's Prediction
+Oxychlordane,33772,-1.02,-0.92,-0.80
+DDE,3035,-0.98,-0.88,-0.64
+Mifepristone,4196,-0.96,-0.86,-0.41
+Atazanavir,148192,-0.89,-0.79,-0.70
+Nonachlor,19520,-0.84,-0.74,-1.00
+Chlordane,5993,-0.78,-0.68,-0.85
+HCB,8370,-0.70,-0.60,-0.73
+Flupenthixol,5281881,-0.62,-0.52,-0.52
+Lopinavir,3817,-0.62,-0.52,-0.70
+Propranolol,4946,-0.59,-0.49,-0.29
+Disopyramide,3114,-0.59,-0.49,-0.43
+Piperacillin,4834,-0.57,-0.47,-0.38
+Heptachlor epoxide,13930,-0.48,-0.58,-0.73
+Etidocaine,37497,-0.47,-0.37,-0.26
+Buprenorphine,2476,-0.46,-0.36,-0.45
+Oxprenolol,4631,-0.43,-0.38,-0.19
+Didanosine,3043,-0.42,-0.32,0.06
+Norbuprenorphine,114976,-0.31,-0.34,-0.34
+Clindamycin,2786,-0.30,-0.30,-0.27
+Lidocaine,3676,-0.26,-0.35,-0.20
+Clonazepam,2802,-0.23,-0.27,-0.33
+Flecainide,3356,-0.20,-0.30,-0.33
+Nevirapine,4463,-0.17,-0.27,-0.16
+Remifentanil,60815,-0.14,-0.24,-0.33
+Ethambutol,3279,-0.12,-0.22,-0.13
+Nifedipine,4485,-0.11,-0.21,-0.24
+Acebutolol,1978,-0.10,-0.20,-0.19
+Clonidine,2803,-0.05,-0.15,-0.13
+Ticarcillin,5471,-0.04,-0.14,-0.13
+Lamivudine,3877,-0.03,-0.13,0.17
+Chlorpyrifos,2730,-0.01,-0.11,-0.20
+Indomethacin,3715,-0.01,-0.11,-0.26
+Metronidazole,4173,0.00,-0.10,0.03
+Diazinon,3017,0.00,-0.10,-0.14
+Metoprolol,4171,0.00,-0.10,-0.20
+Abacavir,1971,0.01,-0.09,-0.08
+Procainamide,4913,0.04,-0.06,-0.21
+Zidovudine,5726,0.09,-0.01,0.04
+Diazepam,3016,0.10,-0.00,-0.36
+Stavudine,5155,0.12,0.02,0.11
+Valproic acid,3121,0.18,-0.36,-0.05
